@@ -9,7 +9,7 @@ IMDb Charts
 Top Rated Movies
 Top 250 as rated by IMDb Users
 
-We fetched top 250 movie list and corresponding details using rvest R package.
+The project fetched top 250 movie list and corresponding details using rvest R package.
 Then, the raw data was preprocessed and transformed using stringr R package.
 Finally, Shiny app was used to show 250 top rated movies table and picture on line.
 The users can obtain data they wanted by handling the slidebar about movie rating, and know the top 10 production of top rated movies per year. 
