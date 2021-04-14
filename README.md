@@ -3,6 +3,9 @@ IMDb, the world's most popular and authoritative source for movie, TV and celebr
 
 ![图片](https://user-images.githubusercontent.com/11934986/114636035-ae98bd00-9cf8-11eb-813a-0f50b8a57ebb.png)
 
+![image](https://user-images.githubusercontent.com/51139288/114720002-e96e1580-9d37-11eb-86fb-27af4f690cd2.png)
+
+
 IMDb Charts
 Top Rated Movies
 Top 250 as rated by IMDb Users
